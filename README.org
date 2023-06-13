@@ -1,0 +1,10 @@
+* recursive-regex
+
+A Common Lisp library that allows CL-PPCRE regexes to call each other recursively and return a parse tree of matching groups
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/AccelerationNet/recursive-regex.git   |
+| commit  | e6db5b0  |
+| systems | recursive-regex |
+|---------+-------------------------------------------|
+
